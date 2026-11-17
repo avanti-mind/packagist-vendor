@@ -1,0 +1,7 @@
+{
+    "name": "avanti-mind/vendor-reserved",
+    "description": "Reserves the avanti-mind vendor name on Packagist for Avanti Mind Ltd. Contains no code; do not install.",
+    "type": "metapackage",
+    "license": "MIT",
+    "require": {}
+}
